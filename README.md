@@ -1,4 +1,5 @@
-## Interpretable machine learning with SHAP: An empirical study of the effect of background data sample size on deep learning model explanation
+## An empirical study of the effect of background data size on the stability of SHapley Additive exPlanations (SHAP) for deep learning models
+### Please read our [article](https://arxiv.org/pdf/2204.11351) for further information.
 - [Background](#background)
 - [Results](#results)
 - [Datasets](#datasets)
